@@ -1,9 +1,21 @@
 <div align="center">
-  <h1>🛡️ Prahari</h1>
-  <p><b>Smart Tourist Safety & Hyper-local Alert System</b></p>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a0f2e&height=180&section=header&text=PRAHARI&fontSize=60&fontColor=A78BFA&desc=Smart%20Tourist%20Safety%20System&descSize=20&descAlignY=70&descAlign=62" width="100%"/>
 
 <br/>
+
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Real-Time+SOS+Alerts;Live+GPS+Tracking;Blockchain-based+Digital+ID;AI-Driven+Anomaly+Detection)](https://github.com/Shivansh-here/Prahari)
+
+<br/>
+
+<img src="https://img.shields.io/badge/-React_Native-1a0f2e?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-Node.js-1a0f2e?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/-MongoDB-1a0f2e?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/-Solidity-1a0f2e?style=for-the-badge&logo=solidity&logoColor=363636"/>
+<img src="https://img.shields.io/badge/-Socket.IO-1a0f2e?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
+<br/>
+</div>
 
 ## 🚀 Overview
 
