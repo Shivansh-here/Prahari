@@ -19,7 +19,7 @@
 
 ## 🚀 Overview
 
-**Prahari** is a full-stack tourist safety platform engineered to drastically improve emergency response times. It provides real-time SOS alerts, live GPS tracking, and hyper-local environmental alerts for tourists navigating unfamiliar locations.
+**Prahari** is a full-stack tourist safety platform engineered to cut emergency response times by removing manual dispatch steps. It provides real-time SOS alerts, live GPS tracking, and hyper-local environmental alerts for tourists navigating unfamiliar locations.
 
 ---
 
