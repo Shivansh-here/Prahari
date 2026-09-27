@@ -44,7 +44,4 @@ Identity verification is handled via a custom Solidity smart contract. Tourist i
 ### 3. 🧠 AI-Driven Geo-Fencing
 Proactive alerts are triggered when tourists cross into designated high-risk zones. Anomaly detection algorithms monitor movement patterns to flag suspicious deviations in travel routes.
 
-<br/>
-<div align="center">
-  <i>Engineered by Shivansh T.</i>
-</div>
+
